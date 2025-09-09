@@ -2,7 +2,7 @@
   "active": [
     {
       "name": "DarkVIX.ru",
-      "logo": "https://cdn.ga1maz.ru/projects/darkvix.png",
+      "logo": "https://cdn.ga1maz.ru/projects/darkvix.svg",
       "tag": "Игровой хостинг серверов.",
       "desc": "Надёжный хостинг игровых серверов с отличными ценами и стабильным UpTime.",
       "role": "Владелец и разработчик.",
@@ -11,7 +11,7 @@
     },
     {
       "name": "FD Site&Plugins",
-      "logo": "https://cdn.ga1maz.ru/projects/fd.png",
+      "logo": "https://cdn.ga1maz.ru/projects/fd.svg",
       "tag": "Сайт с привязкой аккаунта.",
       "desc": "Проект Minecraft с куча кастомных плагинов с самописным сайтом для аунтификации. Полностью был создан и разработан мной.",
       "role": "Разработчик.",
