@@ -1,0 +1,33 @@
+{
+  "active": [
+    {
+      "name": "DarkVIX.ru",
+      "logo": "https://cdn.ga1maz.ru/projects/darkvix.png",
+      "tag": "Игровой хостинг серверов.",
+      "desc": "Надёжный хостинг игровых серверов с отличными ценами и стабильным UpTime.",
+      "role": "Владелец и разработчик.",
+      "roleColor": "teal",
+      "url": "https://darkvix.ru"
+    },
+    {
+      "name": "FD Site&Plugins",
+      "logo": "https://cdn.ga1maz.ru/projects/fd.png",
+      "tag": "Сайт с привязкой аккаунта.",
+      "desc": "Проект Minecraft с куча кастомных плагинов с самописным сайтом для аунтификации. Полностью был создан и разработан мной.",
+      "role": "Разработчик.",
+      "roleColor": "teal",
+      "url": "null"
+    }
+  ],
+  "frozen": [
+    {
+      "name": "Profile",
+      "logo": null,
+      "tag": "Сайт портфолио",
+      "desc": "Сайт визитка для себя с проектами.",
+      "role": "Владелец и разработчик.",
+      "roleColor": "sky",
+      "url": "https://ga1maz.ru"
+    }
+  ]
+}
